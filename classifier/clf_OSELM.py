@@ -1,4 +1,4 @@
-""" SOSELM classifier."""
+""" OSELM classifier."""
 
 from sklearn import preprocessing
 from numpy import random
