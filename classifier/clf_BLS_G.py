@@ -1,4 +1,4 @@
-""" BLS-SMW classifier."""
+""" BLS classifier."""
 
 import numpy as np
 from sklearn import preprocessing
