@@ -1,4 +1,4 @@
-""" QRBLS classifier."""
+""" QRBLS-TDS classifier."""
 
 import numpy as np
 from sklearn import preprocessing
