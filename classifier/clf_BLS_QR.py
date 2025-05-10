@@ -1,4 +1,4 @@
-""" MFBLA-SMW classifier."""
+""" QRBLS classifier."""
 
 import numpy as np
 from sklearn import preprocessing
